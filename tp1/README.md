@@ -68,10 +68,14 @@ collaborer et à bien organiser le travail. Quoiqu'il vous est demandé de
 réaliser le projet, le but n'est pas d'évaluer vos compétences de design
 ou de programmation. Organisez donc votre temps en conséquence.
 
-## Critères d'évaluation `10`
+## Critères d'évaluation `20`
+
+## Enseignant `10`
 
 -   Les consignes sont respectées.
 -   La liste des tâches est exhaustive.
 -   Chaque tâche est clairement énoncée.
 -   Les fonctionnalités à implémenter sont bien décrites.
 -   Le choix des itérations est pertinent.
+
+## Pair·es `10`
